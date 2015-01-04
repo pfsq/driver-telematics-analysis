@@ -1,0 +1,11 @@
+## ignore some folders
+# original data
+/drivers
+# documentation
+/doc
+# IPython notebook
+/.ipynb_checkpoints
+
+## ignore imported code
+# Score 0.66 with logistic regression
+simple_logistic_model.R
